@@ -1,10 +1,8 @@
-<!-- res/layout/custom_button_layout.xml -->
 <merge xmlns:android="http://schemas.android.com/apk/res/android">
     <Button
         android:id="@+id/button"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:backgroundTint="@color/material_dynamic_neutral_variant30"
         android:textColor="@android:color/white"
         android:padding="12dp"
         android:text="Custom Button" />
